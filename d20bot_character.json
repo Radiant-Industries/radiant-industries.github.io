@@ -1,1 +1,11 @@
 
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://radiant-industries.github.io/d20bot_character.json",
+    "title": "Character",
+    "description": "A d20 system character",
+    "type": "object",
+    "properties": {
+        
+    }
+}
